@@ -6,7 +6,7 @@ Animals are arriving to your zoo from zoos and parks around the world and you mu
 
 Write a program in your choice of language (Python, Java, C++) that performs the following tasks:
 
-1. Use fileIO to read the input file (arrivingAnimals.txt) 
+XX1. Use fileIO to read the input file (arrivingAnimals.txt) 
 2. Write a fuction or method that calculates a birthday from the originating data. 
 3. Write a function or method to create a uniqueID for each animal.
 4. Write a function or method to name each new animal using animalNames.txt
